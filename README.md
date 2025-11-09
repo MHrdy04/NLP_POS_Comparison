@@ -54,7 +54,8 @@ This project complements the academic paper:
 📦 NLP_POS_Comparison
  ┣ 📓 POS_Tagging_Comparison.ipynb     # Main Jupyter Notebook
  ┣ 📄 README.md                         # Project description (this file)
- ┣ 📊 results/                          # Generated charts
+ ┣ 📊 accuracy_plot.png                  # Generated charts
+ ┣ 📊 metrics_plot.png
  ┗ 📜 requirements.txt                  # Dependencies
 
 ```
